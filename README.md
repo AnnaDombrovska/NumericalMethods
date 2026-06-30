@@ -1,7 +1,7 @@
 # NumericalMethods
 A comprehensive collection of numerical analysis algorithms and mathematical models implemented in **C#**. This repository contains practical works and projects focused on computational mathematics and data processing, completed during my studies at Igor Sikorsky KPI.
 
-## 🛠 Tech Stack & Tools
+## Tech Stack & Tools
 *   **Language:** C# (Core)
 *   **Libraries:** MathNet.Numerics
 *   **Key Concepts:** Object-Oriented Programming (OOP), Data Preprocessing, Algorithm Design
